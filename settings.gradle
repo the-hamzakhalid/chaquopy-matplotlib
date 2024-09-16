@@ -12,5 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Chaquopy Matplotlib demo"
+rootProject.name = "python-with-android-sample"
 include ':app'
+include ':custom-view:drawingview'
+

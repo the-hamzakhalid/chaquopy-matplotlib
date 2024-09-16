@@ -12,6 +12,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/custom-view" />
+            <option value="$PROJECT_DIR$/custom-view/drawingview" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

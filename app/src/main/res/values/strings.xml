@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Chaquopy Matplotlib demo</string>
+    <string name="app_name">Python With Android</string>
+    <string name="x_coordinates">X coordinates</string>
+    <string name="y_coordinates">Y coordinates</string>
+    <string name="plot">Plot</string>
+    <string name="object_remover">Object Remover</string>
+    <string name="plot_graph">Plot Graph</string>
+    <string name="remove_object">Remove Object</string>
+    <string name="clear_drawing">Clear Drawing</string>
+    <string name="pick_image">Pick\nImage</string>
 </resources>
