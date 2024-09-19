@@ -27,6 +27,8 @@ android {
                 install "Pillow"
                 install "pyinpaint"
                 install "opencv-python"
+                install "simple_lama_inpainting"
+                install "torch"
             }
         }
     }

@@ -38,7 +38,7 @@ class ObjectRemoverActivity : AppCompatActivity() {
 
     private var pyObject: PyObject? = null
 
-    private var pythonFunctionName = "in_paint_open_cv"
+    private var pythonFunctionName = "in_paint_lama"
 
     private lateinit var pickImageLauncher: ActivityResultLauncher<Intent>
 
